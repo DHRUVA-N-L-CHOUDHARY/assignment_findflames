@@ -1,0 +1,14 @@
+const String profileimage = "lib/src/config/images/person_profile.png";
+const String persona = "lib/src/config/images/1st_person.png";
+const String personb = "lib/src/config/images/2nd_person.png";
+const String personc = "lib/src/config/images/3rd_person.png";
+const String home = "lib/src/config/images/home.png";
+const String calen = "lib/src/config/images/calendaredit.png";
+const String globalsearch = "lib/src/config/images/globalsearch.png";
+const String messages = "lib/src/config/images/messages3.png";
+const String like = "lib/src/config/images/likes.png";
+const String james = "lib/src/config/images/James.png";
+const String tony = "lib/src/config/images/tony.png";
+const String jordon = "lib/src/config/images/Jo.png";
+const String verify = "lib/src/config/images/verify.png";
+const String heart = "lib/src/config/images/heart.png";

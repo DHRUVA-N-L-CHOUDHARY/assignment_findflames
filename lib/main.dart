@@ -1,3 +1,6 @@
+import 'package:findflames/src/utils/widgets/Custom_list_tile.dart';
+import 'package:findflames/src/views/display_page_view.dart';
+import 'package:findflames/src/views/homepage_view.dart';
 import 'package:flutter/material.dart';
 
 void main() {
@@ -24,7 +27,8 @@ class MyApp extends StatelessWidget {
         // is not restarted.
         primarySwatch: Colors.blue,
       ),
-      home: const MyHomePage(title: 'Flutter Demo Home Page'),
+      debugShowCheckedModeBanner: false,
+      home: const DashboardPage(),
     );
   }
 }
