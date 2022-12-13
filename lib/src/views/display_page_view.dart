@@ -32,7 +32,7 @@ class _DisplayPageviewState extends State<DisplayPageview> {
             )),
             toolbarOpacity: 1.0,
         centerTitle: true,
-        elevation: null,
+        elevation: 0,
         surfaceTintColor: Color.fromARGB(255, 250, 245, 245),
         shadowColor:  Color.fromARGB(255, 250, 245, 245),
         backgroundColor: Color.fromARGB(255, 250, 245, 245),
